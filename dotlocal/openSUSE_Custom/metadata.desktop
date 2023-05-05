@@ -1,0 +1,29 @@
+[Desktop Entry]
+Name=openSUSE_Custom
+Comment=Default openSUSE theme
+
+X-KDE-PluginInfo-Author=openSUSE KDE team
+X-KDE-PluginInfo-Email=opensuse-kde@opensuse.org
+X-KDE-PluginInfo-Name=openSUSE_Custom
+X-Plasma-API=5.0
+X-KDE-PluginInfo-Version=0.6
+X-KDE-PluginInfo-Website=http://en.opensuse.org/Portal:KDE
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
+
+# [Wallpaper]
+# defaultWallpaperTheme=openSUSEdefault
+# defaultFileSuffix=.jpg
+# defaultWidth=1920
+# defaultHeight=1080
+#
+# [ContrastEffect]
+# enabled=true
+# contrast=0.2
+# intensity=1.0
+# saturation=0.7
+#
+[AdaptiveTransparency]
+enabled=true
